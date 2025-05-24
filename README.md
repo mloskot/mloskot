@@ -15,7 +15,7 @@ Shell                           23        2380        271         208      1901
 Batch                            3         125         22          11        92
 ```
 
-The table was generated using [scc](https://github.com/boyter/scc) by @boyter - star it!
+The table was generated using [scc](https://github.com/boyter/scc) - star it!
 
 <!--
 **mloskot/mloskot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
