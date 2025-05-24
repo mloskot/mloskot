@@ -1,7 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mloskot&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mloskot&theme=default&layout=compact&show_icons=true&hide_border=true&langs_count=8&hide=c,css,javascript,html,emacs%20lisp,lex,m4,vim%20script,yacc)
 
-I've recently been part of DevOps projects outside of GitHub:
+I've recently been part of several DevOps projects outside of GitHub:
 
 ```console
 ───────────────────────────────────────────────────────────────────────────────
