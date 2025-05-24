@@ -1,6 +1,6 @@
-![mloskot's GitHub stats](https://github-readme-stats.vercel.app/api?username=mloskot&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mloskot&theme=default)
 
-![mloskot's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mloskot&theme=default&layout=compact&show_icons=true&hide_border=true&langs_count=8&hide=c,css,javascript,html,emacs lisp,lex,m4,vim script,yacc)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mloskot&theme=default&layout=compact&show_icons=true&hide_border=true&langs_count=8&hide=c,css,javascript,html,emacs lisp,lex,m4,vim script,yacc)
 
 <!--
 **mloskot/mloskot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
