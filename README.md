@@ -10,7 +10,7 @@ Language            Files       Lines    Blanks  Comments       Code
 Terraform             845      30,334     4,651     1,515     24,168
 YAML                  577      32,161       648     2,132     29,381
 JSON                  197       3,201         0         0      3,201
-CloudFormation…       188      63,384       267        11     63,106
+YAML                  188      63,384       267        11     63,106
 Powershell             73       6,127       615       587      4,925
 Go                     56       4,623       768       288      3,567
 HCL                    32       1,104       133         2        969
