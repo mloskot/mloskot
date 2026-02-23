@@ -1,7 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mloskot&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mloskot&theme=default&layout=compact&show_icons=true&hide_border=true&langs_count=8&hide=c,css,javascript,html,emacs%20lisp,lex,m4,vim%20script,yacc)
+My recent work has centered on cloud‑native development and platform engineering, with an emphasis on Kubernetes - specifically interested in SIG‑Windows activities and participating in the development of tools like Minikube and Kubebuilder.
 
-I've recently been part of several DevOps projects outside of GitHub:
+At my company, I'm currently responsible for a platform engineering, developing tools for DevOps projects outside of GitHub:
 
 ```console
 ────────────────────────────────────────────────────────────────────
